@@ -22,7 +22,7 @@ Now create a virtual environment
 
 >you can use any name insted of **venv**
 
-Active your virtual environment:
+Active your virtual environment :
 
     source venv/bin/activate
 
